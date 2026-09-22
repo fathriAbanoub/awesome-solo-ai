@@ -19,6 +19,7 @@ _Last updated: June 2026._
 - [ElevenLabs](https://elevenlabs.io) — free monthly TTS quota. 🆓
 - [Suno](https://suno.com) — free song generations. 🆓
 - [Fish Audio](https://fish.audio) — open-source TTS and voice cloning. 🔓
+- [Piper TTS](https://github.com/rhasspy/piper) — fully local, open-source TTS; CC0 voices (e.g. en_GB-cori-medium, de_DE-thorsten-high) are safe for commercial projects. Check any voice's license: `curl -sL https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/cori/medium/MODEL_CARD | grep -i license` — browse all voices at [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices/tree/main). 🆓 🔓
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio) — fully-local, open-source ElevenLabs alternative; no API keys, 646 languages. 🆓 🔓
 
 ## Open-source / open-weight
